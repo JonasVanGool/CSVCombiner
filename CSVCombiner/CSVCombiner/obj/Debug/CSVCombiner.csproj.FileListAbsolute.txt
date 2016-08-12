@@ -1,0 +1,9 @@
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\bin\Debug\CSVCombiner.exe.config
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.csprojResolveAssemblyReference.cache
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.Form1.resources
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.Properties.Resources.resources
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.csproj.GenerateResource.Cache
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\bin\Debug\CSVCombiner.exe
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\bin\Debug\CSVCombiner.pdb
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.exe
+c:\users\2425\documents\visual studio 2013\Projects\CSVCombiner\CSVCombiner\obj\Debug\CSVCombiner.pdb
